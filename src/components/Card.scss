@@ -1,0 +1,20 @@
+.card {
+  color: hsl(0, 0%, 95%);
+  padding: 25px;
+
+  h1 {
+    font-family: 'Big Shoulders Display';
+    font-weight: 700;
+  }
+
+  p {
+    font-family: 'Lexend Deca';
+  }
+
+  a {
+    border-radius: 20px;
+    padding: 10px 10px 12px 10px;
+    text-decoration: none;
+    border: 1px solid hsl(0, 0%, 95%);
+  }
+}
